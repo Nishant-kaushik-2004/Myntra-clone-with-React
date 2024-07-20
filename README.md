@@ -1,4 +1,4 @@
-                                                            <h1>Myntra Website Clone</h1>
+                                                Myntra Website Clone
 
 This project is a clone of the Myntra website, built using React for the frontend and a local server for data fetching. The clone aims to replicate the core features and design of the original Myntra website.
 
@@ -6,7 +6,7 @@ Features
 
 	•	Product listing and details
 	•	Add to cart
-  • Bag summary
+	•	Bag summary
 	•	Search facility
 	•	Responsive design
 
@@ -20,38 +20,6 @@ Technologies Used
 	•	CSS
 	•	Bootstrap (CSS framework)
 	•	React-icons
-
- Here’s a structured template you can use for your README file on GitHub for the Myntra website clone project made using React and local server data fetching:
-
-Myntra Website Clone
-
-This project is a clone of the Myntra website, built using React for the frontend and a local server for data fetching. The clone aims to replicate the core features and design of the original Myntra website.
-
-Table of Contents
-
-	•	Features
-	•	Technologies Used
-	•	Installation
-	•	Usage
-	•	Contributing
-	•	License
-	•	Contact
-
-Features
-
-	•	User authentication and authorization
-	•	Product listing and details page
-	•	Add to cart functionality
-	•	Search and filter products
-	•	Responsive design
-
-Technologies Used
-
-	•	React
-	•	React Router
-	•	Axios (for data fetching)
-	•	JSON Server (for local server data)
-	•	CSS (or any CSS framework/library you used)
 
  Usage
 
