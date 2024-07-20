@@ -28,4 +28,4 @@ Technologies Used
 
  Contributing
 
-Contributions are welcome! Please follow these steps to contribute:
+Contributions are welcome!
