@@ -7,7 +7,7 @@ Features
 	•	Product listing and details
 	•	Add to cart
 	•	Bag summary
-	•	Search facility
+	•	Search functionality
 	•	Responsive design
 
 Technologies Used
