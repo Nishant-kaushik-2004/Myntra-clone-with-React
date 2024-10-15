@@ -26,6 +26,5 @@ Technologies Used
 	•	Open your browser and navigate to http://localhost:3000 to see the Myntra clone in action.
 	•	Use the app to browse products, add items to your cart, and explore other features.
 
- Contributing
 
-Contributions are welcome!
+Contributions are welcome!!
